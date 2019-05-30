@@ -2,6 +2,9 @@
 
 Just some hints to deal with image processing using Free Libre OpenSource Software
 
+## Image processing
+
+Image processing can be performed using [`Darktable`](https://github.com/darktable-org/darktable), as a FLOSS alternative to `Adobe Lightroom`.
 
 
 ## Stacking
