@@ -16,6 +16,15 @@ convert DSC0133[7-9].ARW DSC0134* DSC0135[0-3].ARW -evaluate-sequence median sta
 , this will provide the stacked image `stack_bracket_16.tiff` averaging the requested source images.
 
 
+## Panorama
+
+Panos can be created using [`hugin`](https://sourceforge.net/projects/hugin/).
+
+Just start it, load source files and start "composing".
+
+Of course, the same tool can be used for Vertoramas.
+
+
 ## Timelapse
 
 There are some options, but one of the simplest flows is to chain `ffmpeg` and `mencoder`.
