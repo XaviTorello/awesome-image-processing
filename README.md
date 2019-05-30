@@ -6,6 +6,9 @@ Just some hints to deal with image processing using Free Libre OpenSource Softwa
 
 Image processing can be performed using [`Darktable`](https://github.com/darktable-org/darktable), as a FLOSS alternative to `Adobe Lightroom`.
 
+## Image manipulation
+
+Image can be manipulated (also processed) using [`GIMP`](https://github.com/GNOME/gimp) as an alternative to `Adobe Photoshop`.
 
 ## Stacking
 
