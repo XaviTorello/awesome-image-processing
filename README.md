@@ -10,6 +10,19 @@ Image processing can be performed using [`Darktable`](https://github.com/darktab
 
 Image can be manipulated (also processed) using [`GIMP`](https://github.com/GNOME/gimp) as an alternative to `Adobe Photoshop`.
 
+Some interesting plugins:
+- [gimp-plugin-astronomy](https://github.com/gimp-plugins-justice/gimp-plugin-astronomy)
+- [gimp-plugin-beautify](https://github.com/hejiann/beautify)
+- [gimp-plugin-bimp](https://github.com/alessandrofrancesconi/gimp-plugin-bimp)
+- [gimp-plugin-dcamnoise2](https://github.com/pld-linux/gimp-plugin-dcamnoise2)
+- [gimp-plugin-pandora](https://shallowsky.com/software/pandora)
+- [gimp-plugin-reflection](https://www.gimphelp.org/effects_water-reflection.html)
+- [gimp-plugin-resynthesizer](https://github.com/bootchk/resynthesizer)
+- [gimp-plugin-refocusit](http://refocus-it.sourceforge.net/)
+- [gimp-plugin-saveforweb](https://github.com/auris/gimp-save-for-web)
+- [gimp-plugin-separate+](https://osdn.net/projects/separate-plus/)
+- [gimp-plugin-wavelet-sharpen](https://github.com/mrossini-ethz/gimp-wavelet-sharpen)
+
 ## Stacking
 
 The idea is to achieve one unique image that stacks a set of the same picture over different exposures.
