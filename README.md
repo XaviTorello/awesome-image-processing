@@ -1,6 +1,6 @@
-# Image Processing FLOSS
+# Awesome Image Processing FLOSS
 
-Just some hints to deal with image processing using Free Libre OpenSource Software
+A curated list of free-libre-opensource image processing software, ideal for photographers :)
 
 ## Image processing
 
